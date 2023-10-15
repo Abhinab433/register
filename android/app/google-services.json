@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "272888537054",
+    "project_id": "shreeganeshayanamaha-b375b",
+    "storage_bucket": "shreeganeshayanamaha-b375b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272888537054:android:f866cd26ca5023cc2a074f",
+        "android_client_info": {
+          "package_name": "com.abhinab.register"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDORkRQI197r4y52fgOAQmGh45KOhOktNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
